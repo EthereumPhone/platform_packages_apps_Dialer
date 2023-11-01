@@ -116,8 +116,8 @@
 
   <application
     android:hardwareAccelerated="true"
-    android:icon="@mipmap/ic_launcher"
-    android:roundIcon="@mipmap/ic_launcher_round"
+    android:icon="@drawable/ic_launcher_foreground"
+    android:roundIcon="@drawable/ic_launcher_foreground"
     android:label="@string/applicationLabel"
     android:name="com.android.dialer.binary.aosp.AospDialerApplication"
     android:appCategory="social"
